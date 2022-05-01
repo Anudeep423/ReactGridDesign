@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import "./styles.css"
 import Header from './Header'
-import LatestPost from "./LatestPost"
+import "./styles.css"
+import LatestPost from './LatestPost'
 
 
 export class App extends Component {

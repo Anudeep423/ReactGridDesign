@@ -9,6 +9,7 @@ export class App extends Component {
 render(){
   return(
     <div>
+/* fdfge */
       <Header />
       <LatestPostComp />
     </div>
